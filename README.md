@@ -1,6 +1,10 @@
-# Project Title
+# Mobile Eye Gaze Estimation with Deep Learning
 
-One Paragraph of project description goes here
+In the final project for the \Introduction to Deep Learning" class at RPI (Spring 2017), I have trained a convolutional neural network to estimate the eye gaze of a person as they look at their mobile device. Eye gaze
+estimation refers to determining an accurate prediction of the direction and/or specific position of where
+a person is looking at, on a phone/tablet screen. The Input to this model is the face-image of a person
+as captured by the front-facing camera on their mobile device; and the output is the 2D position (x; y)
+on the screen’s surface.
 
 ## Getting Started
 
