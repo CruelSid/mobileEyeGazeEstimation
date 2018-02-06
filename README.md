@@ -47,7 +47,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* The code is based on lecture notes from Dr Qiang Ji's intro to deep learning class at RPI
 
