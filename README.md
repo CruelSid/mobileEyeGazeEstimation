@@ -27,30 +27,19 @@ For this project, you need to have python 3.5 and the tensorflow python library 
 
 https://www.pyimagesearch.com/2017/09/27/setting-up-ubuntu-16-04-cuda-gpu-for-deep-learning-with-python/
 
+You would also need the numpy and matplotlib python libraries to run this project. 
 
 ## Running the code
 
-Just run the python code  
-
-### And coding style tests
-
-Explain what these tests test and why
+By default the data file should be in the same directory as the python script. Then, you could run it using the following command:
 
 ```
-Give an example
+python eyeGaze.py
 ```
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
-* **Usama Munir Sheikh** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Usama Munir Sheikh** 
 
 ## License
 
