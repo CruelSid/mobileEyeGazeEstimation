@@ -19,7 +19,7 @@ https://drive.google.com/open?id=1iDh3bLM9Nc_Nh_k6xeZLk19uz8zRboaN
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
