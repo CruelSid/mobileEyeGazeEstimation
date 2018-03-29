@@ -1,5 +1,3 @@
-#Author: Usama Munir Sheikh
-	#Electrical and computer systems engineering student at RPI
 #This is my code for the final project for the Intro to Deep Learning course at RPI
 	#taught by Professor Qiang Ji in Spring 2017
 #The following code implements a convolutional neural network for
